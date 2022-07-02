@@ -1,2 +1,0 @@
-hi index2
-bug fixed
